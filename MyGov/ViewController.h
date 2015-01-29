@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+    IBOutlet UIWebView *webview;
+}
+-(IBAction)tweetButtonPressed:(id)sender;
+@property (nonatomic, strong) UIWebView *webview;
 
 @end
