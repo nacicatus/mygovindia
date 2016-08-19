@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB265CCA1A7AE80B00F81F35"
-               BuildableName = "MyGovTests.octest"
+               BuildableName = "MyGovTests.xctest"
                BlueprintName = "MyGovTests"
                ReferencedContainer = "container:MyGov.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB265CCA1A7AE80B00F81F35"
-               BuildableName = "MyGovTests.octest"
+               BuildableName = "MyGovTests.xctest"
                BlueprintName = "MyGovTests"
                ReferencedContainer = "container:MyGov.xcodeproj">
             </BuildableReference>
